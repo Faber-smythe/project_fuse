@@ -15,7 +15,7 @@ _A C programming exercise about Linux filesystem, asked for in  the **[DVIC](htt
 ---
 
 Libfuse is a software interface used to mount filesystems in the userspace. 
-This project's assignment can be found in the [PDF file](https://github.com/Faber-smythe/project_fuse/blob/master/README.md)
+This project's assignment can be found in the [PDF file](https://github.com/Faber-smythe/project_fuse/blob/master/project%20-%20library%20fuse.pdf)
 
 
 
