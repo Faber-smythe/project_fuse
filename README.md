@@ -33,10 +33,10 @@ Please keep in mind, this project was made on Ubuntu, and is meant to run on Lin
   ``` 
   gcc -Wall main.c `pkg-config fuse --cflags --libs` -o main
   ```
-
+- Pick a location where you'd like to mount your filesystem (e.g. create an empty folder in your project)
 # Usage
 
-The compiled executable is used in commandline to mount the pseudo filesystem onto the `mnt` folder.
+The compiled executable is used in commandline to mount the pseudo filesystem onto the chosen folder.
 ```
 ./main -f mnt
 ```
