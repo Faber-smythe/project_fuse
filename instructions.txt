@@ -1,7 +1,0 @@
- sudo apt-get install fuse3
- 
-sudo apt-get install libfuse-dev
-sudo apt-get install libfuse3-dev
- 
- 
- 
