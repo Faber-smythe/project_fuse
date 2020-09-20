@@ -1,6 +1,6 @@
 <h1 align="center">Project Fuse</h1>
 
-<p align="center">
+<p align="center" height="80px">
 
 <img style="height: 80px; margin: 0px 20px" src="https://dvic.devinci.fr/static/img/uploads/1580643817504-AeOG5rDzar33ga5BVMJK.png" >
 
