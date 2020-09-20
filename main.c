@@ -134,9 +134,10 @@ static int custom_write(const char *path, const char *buf, size_t size,
 	if(strcmp(path, output_path) == 0)
 		printf("This just got written onto the %s file :\n%s\n", path, buf);
 	
-	if(strcmp(path, shutdown_path) == 0)
+	if(strcmp(path, shutdown_path) == 0){
 		printf("Shutting down now. Bye !\n");
 		system("shutdown -P now");
+	}
 	
 	return 0;
 }
