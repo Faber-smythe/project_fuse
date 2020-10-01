@@ -2,11 +2,11 @@
 
 <p align="center" height="80px">
 
-<img style="height: 80px; margin: 0px 20px" src="https://dvic.devinci.fr/static/img/uploads/1580643817504-AeOG5rDzar33ga5BVMJK.png" >
+<img width="80px" src="https://dvic.devinci.fr/static/img/uploads/1580643817504-AeOG5rDzar33ga5BVMJK.png" >
 
-<img style="height: 80px; margin: 0px 20px" src="https://pngimg.com/uploads/linux/linux_PNG12.png" >
+<img width="80px" src="https://pngimg.com/uploads/linux/linux_PNG12.png" >
 
-<img style="height: 80px; margin: 0px 20px" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" >
+<img width="80px" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" >
 
 </p>
 
